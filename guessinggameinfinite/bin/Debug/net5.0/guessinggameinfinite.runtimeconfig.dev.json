@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\siim.jarveots\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\siim.jarveots\\.nuget\\packages"
+    ]
+  }
+}

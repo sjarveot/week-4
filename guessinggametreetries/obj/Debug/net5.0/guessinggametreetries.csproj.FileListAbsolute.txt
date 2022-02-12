@@ -1,0 +1,16 @@
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\bin\Debug\net5.0\guessinggametreetries.exe
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\bin\Debug\net5.0\guessinggametreetries.deps.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\bin\Debug\net5.0\guessinggametreetries.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\bin\Debug\net5.0\guessinggametreetries.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\bin\Debug\net5.0\guessinggametreetries.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\bin\Debug\net5.0\ref\guessinggametreetries.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\bin\Debug\net5.0\guessinggametreetries.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.csproj.AssemblyReference.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\ref\guessinggametreetries.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggametreetries\obj\Debug\net5.0\guessinggametreetries.genruntimeconfig.cache

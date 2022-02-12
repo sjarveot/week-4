@@ -1,0 +1,16 @@
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\bin\Debug\net5.0\guessinggameinfinite.exe
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\bin\Debug\net5.0\guessinggameinfinite.deps.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\bin\Debug\net5.0\guessinggameinfinite.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\bin\Debug\net5.0\guessinggameinfinite.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\bin\Debug\net5.0\guessinggameinfinite.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\bin\Debug\net5.0\ref\guessinggameinfinite.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\bin\Debug\net5.0\guessinggameinfinite.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.csproj.AssemblyReference.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\ref\guessinggameinfinite.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\guessinggameinfinite\obj\Debug\net5.0\guessinggameinfinite.genruntimeconfig.cache

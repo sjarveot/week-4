@@ -1,0 +1,16 @@
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\bin\Debug\net5.0\Randomnumber.exe
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\bin\Debug\net5.0\Randomnumber.deps.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\bin\Debug\net5.0\Randomnumber.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\bin\Debug\net5.0\Randomnumber.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\bin\Debug\net5.0\Randomnumber.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\bin\Debug\net5.0\ref\Randomnumber.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\bin\Debug\net5.0\Randomnumber.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.csproj.AssemblyReference.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\ref\Randomnumber.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\Randomnumber\obj\Debug\net5.0\Randomnumber.genruntimeconfig.cache

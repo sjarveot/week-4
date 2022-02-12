@@ -1,0 +1,16 @@
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\bin\Debug\net5.0\LoopsandRandomsNumberkolmkatset.exe
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\bin\Debug\net5.0\LoopsandRandomsNumberkolmkatset.deps.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\bin\Debug\net5.0\LoopsandRandomsNumberkolmkatset.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\bin\Debug\net5.0\LoopsandRandomsNumberkolmkatset.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\bin\Debug\net5.0\LoopsandRandomsNumberkolmkatset.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\bin\Debug\net5.0\ref\LoopsandRandomsNumberkolmkatset.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\bin\Debug\net5.0\LoopsandRandomsNumberkolmkatset.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.csproj.AssemblyReference.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\ref\LoopsandRandomsNumberkolmkatset.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\LoopsandRandomsNumberkolmkatset\obj\Debug\net5.0\LoopsandRandomsNumberkolmkatset.genruntimeconfig.cache

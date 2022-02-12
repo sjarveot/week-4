@@ -1,0 +1,15 @@
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\bin\Debug\net5.0\PininfiniteLoop.exe
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\bin\Debug\net5.0\PininfiniteLoop.deps.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\bin\Debug\net5.0\PininfiniteLoop.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\bin\Debug\net5.0\PininfiniteLoop.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\bin\Debug\net5.0\PininfiniteLoop.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\bin\Debug\net5.0\ref\PininfiniteLoop.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\bin\Debug\net5.0\PininfiniteLoop.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\PininfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\PininfiniteLoop.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\PininfiniteLoop.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\PininfiniteLoop.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\PininfiniteLoop.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\ref\PininfiniteLoop.dll
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\PininfiniteLoop.pdb
+C:\Users\siim.jarveots\source\repos\LoopsAndRandomNumbers\PininfiniteLoop\obj\Debug\net5.0\PininfiniteLoop.genruntimeconfig.cache
